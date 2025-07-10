@@ -4,17 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Introduce un número natural: ");
+            Console.Write("Introduce un numero natural: ");
             int numero = int.Parse(Console.ReadLine());
 
             int sumaRecursiva = SumarDigitosRecursivo(numero);
             int sumaIterativa = SumarDigitosIterativo(numero);
 
-            Console.WriteLine($"\nSuma de dígitos (recursiva): {sumaRecursiva}");
-            Console.WriteLine($"Suma de dígitos (iterativa): {sumaIterativa}");
+            Console.WriteLine($"\nSuma de digitos (recursiva): {sumaRecursiva}");
+            Console.WriteLine($"Suma de digitos (iterativa): {sumaIterativa}");
         }
 
-        // Método recursivo
+        // Metodo recursivo
         static int SumarDigitosRecursivo(int n)
         {
             if (n < 10)
@@ -23,7 +23,7 @@
                 return (n % 10) + SumarDigitosRecursivo(n / 10);
         }
 
-        // Método iterativo
+        // Metodo iterativo
         static int SumarDigitosIterativo(int n)
         {
             int suma = 0;

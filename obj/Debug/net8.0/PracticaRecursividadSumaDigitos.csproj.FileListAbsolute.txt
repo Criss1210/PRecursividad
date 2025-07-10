@@ -12,3 +12,4 @@ C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\Prac
 C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.pdb
 C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.genruntimeconfig.cache
 C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\ref\PracticaRecursividadSumaDigitos.dll
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.sourcelink.json

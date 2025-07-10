@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaRecursividadSumaDigitos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6d0231015403a48fe2dd8b4f9dd396c55d22158")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaRecursividadSumaDigitos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaRecursividadSumaDigitos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
