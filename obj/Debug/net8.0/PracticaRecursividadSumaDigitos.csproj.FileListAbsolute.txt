@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\bin\Debug\net8.0\PracticaRecursividadSumaDigitos.exe
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\bin\Debug\net8.0\PracticaRecursividadSumaDigitos.deps.json
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\bin\Debug\net8.0\PracticaRecursividadSumaDigitos.runtimeconfig.json
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\bin\Debug\net8.0\PracticaRecursividadSumaDigitos.dll
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\bin\Debug\net8.0\PracticaRecursividadSumaDigitos.pdb
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.AssemblyInfo.cs
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.dll
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\refint\PracticaRecursividadSumaDigitos.dll
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.pdb
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\PracticaRecursividadSumaDigitos.genruntimeconfig.cache
+C:\Users\User\Documents\Estructura de Datos\PracticaRecursividadSumaDigitos\PracticaRecursividadSumaDigitos\obj\Debug\net8.0\ref\PracticaRecursividadSumaDigitos.dll
